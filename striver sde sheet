@@ -1,0 +1,18 @@
+class Solution {
+public:
+    // tortoise and hare approach to cycle detection
+    int findDuplicate(vector<int>& nums) {
+        int slow = nums[0], fast = nums[0];
+        do {
+            slow = nums[slow]; // for 1 step
+            fast = nums[nums[fast]]; // for 2 steps
+        }while(slow != fast);
+        fast = nums[0]; // when pointers coliide first time
+        // move 1 step each
+        while(slow != fast) {
+            slow = nums[slow];
+            fast = nums[fast];
+        }
+        return slow;
+    }
+};

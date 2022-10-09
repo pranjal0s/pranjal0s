@@ -13,4 +13,7 @@ I'm based in Raebareli<br>You can contact me at pranjalsingh9613@gmail.com<br>I'
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal0s&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+[![@pranjal0s's Holopin board](https://holopin.io/api/user/board?user=pranjal0s)](https://holopin.io/@pranjal0s)
+
 [![](https://visitcount.itsvg.in/api?id=pranjal0s&icon=2&color=4)](https://visitcount.itsvg.in)

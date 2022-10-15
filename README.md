@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi: It's Pranjal here
 I'm based in Raebareli<br>You can contact me at pranjalsingh9613@gmail.com<br>I'm learning angular.js<br>I'm open to collaborating on any full-stack dev projects### Skills
 
 
